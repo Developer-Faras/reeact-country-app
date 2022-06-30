@@ -34,7 +34,7 @@
 </ul>
 
 <br />
-<a href="https://developer-faras.github.io/sass-landing-page/" style="padding: 10px 20px; background: #fff; text-decoration: none; color: rgb(55, 99, 245);" >Visit Demo</a>
+<a href="https://faras-react-country.netlify.app/" style="padding: 10px 20px; background: #fff; text-decoration: none; color: rgb(55, 99, 245);" >Visit Demo</a>
 
 
 
