@@ -1,0 +1,7 @@
+.countrys-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 2rem 3rem;
+    flex-wrap: wrap;
+}

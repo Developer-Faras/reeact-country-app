@@ -1,0 +1,22 @@
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0;
+}
+
+.search input {
+    font-size: 14px;
+    padding: 0.2rem 0.4rem;
+    width: 15rem;
+    font-weight: 700;
+    color: var(--primary-hover);
+    border: 2px solid var(--primary);
+    border-radius: 2px;
+    text-transform: uppercase;
+}
+
+.search input::placeholder {
+    color: var(--primary);
+    text-transform: capitalize;
+}
